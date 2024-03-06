@@ -1,0 +1,7 @@
+C:\Users\JHON WICK\source\repos\Basics C#\Basics C#\obj\Debug\Basics C#.csproj.AssemblyReference.cache
+C:\Users\JHON WICK\source\repos\Basics C#\Basics C#\obj\Debug\Basics C#.csproj.CoreCompileInputs.cache
+C:\Users\JHON WICK\source\repos\Basics C#\Basics C#\bin\Debug\Basics C#.exe.config
+C:\Users\JHON WICK\source\repos\Basics C#\Basics C#\bin\Debug\Basics C#.exe
+C:\Users\JHON WICK\source\repos\Basics C#\Basics C#\bin\Debug\Basics C#.pdb
+C:\Users\JHON WICK\source\repos\Basics C#\Basics C#\obj\Debug\Basics C#.exe
+C:\Users\JHON WICK\source\repos\Basics C#\Basics C#\obj\Debug\Basics C#.pdb
